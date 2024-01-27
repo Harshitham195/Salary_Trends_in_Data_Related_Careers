@@ -26,7 +26,7 @@ Let's conduct a thorough analysis of the data and derive meaningful conclusions.
 
 ![Picture1](https://github.com/Harshitham195/Salary_Trends_in_Data_Related_Careers/assets/144315538/8a290f9d-dd84-48d2-8411-0789a0d2ed29)
 
-*6.Which job titles have the top 5 average salaries in the dataset?*
+*6.Which job titles have the top 5 average salaries?*
 
 
 ![Picture1](https://github.com/Harshitham195/Salary_Trends_in_Data_Related_Careers/assets/144315538/4df146eb-b767-48ee-b30e-0edd42cae43f)
