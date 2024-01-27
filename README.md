@@ -3,6 +3,8 @@
 The dataset is sourced from https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data/data.
 
 Data Analysis Project Highlights: 
+
+
    A. Conducted data cleaning processes to improve dataset quality.
    B. Employed Excel functions such as LARGE, XLOOKUP, and VLOOKUP for efficient data manipulation.
    C. Utilized Pivot Tables to analyze and summarize information effectively.
