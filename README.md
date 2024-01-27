@@ -1,8 +1,8 @@
 ***Salary Trends in Data-Related Careers***
  
-The dataset is sourced from https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data/data.
+1.The dataset is sourced from https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data/data.
 
-Data Analysis Project Highlights: 
+2.Data Analysis Project Highlights: 
 
 
    A. Conducted data cleaning processes to improve dataset quality.
@@ -16,7 +16,7 @@ Data Analysis Project Highlights:
    
    D. Created charts to visually represent patterns and trends within the dataset.
 
-Let's conduct a thorough analysis of the data and derive meaningful conclusions.
+3.Let's conduct a thorough analysis of the data and derive meaningful conclusions.
 
 *1. How has the average salary in the data field changed over the years?*
 
