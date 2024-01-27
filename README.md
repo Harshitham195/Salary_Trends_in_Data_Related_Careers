@@ -1,4 +1,4 @@
-***Salary Trends in Data-Related Careers***
+**Salary Trends in Data-Related Careers**
  
 1. The dataset is sourced from https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data/data.
 
