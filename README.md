@@ -17,3 +17,11 @@ Let's conduct a thorough analysis of the data and derive meaningful conclusions.
 
 
 ![Picture1](https://github.com/Harshitham195/Salary_Trends_in_Data_Related_Careers/assets/144315538/08ea94c8-131f-419a-871b-e5ccf1757c75)
+
+*4.What is the average salary breakdown based on different experience levels in the dataset?*
+
+![Picture1](https://github.com/Harshitham195/Salary_Trends_in_Data_Related_Careers/assets/144315538/fa35e58a-685d-4c2c-a4c3-9de992828cf9)
+
+*5.What are the average salaries associated with various employment types and work settings?*
+
+![Picture1](https://github.com/Harshitham195/Salary_Trends_in_Data_Related_Careers/assets/144315538/8a290f9d-dd84-48d2-8411-0789a0d2ed29)
